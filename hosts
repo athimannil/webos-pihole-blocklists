@@ -34,9 +34,10 @@
 0.0.0.0 ads.youtube.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 video-ad-stats.l.google.com
+0.0.0.0 pagead2.googlesyndication.com
 
 # General Smart TV Ad / Tracking Blocklist
 0.0.0.0 cdn.taboola.com
